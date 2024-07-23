@@ -1,0 +1,21 @@
+[submodule "DatabaseMGMT_FinalProject"]
+	path = DatabaseMGMT_FinalProject
+	url = https://github.com/andrews-j/DatabaseMGMT_FinalProject
+[submodule "AdvancedVector_FinalProject"]
+	path = AdvancedVector_FinalProject
+	url = https://github.com/andrews-j/AdvancedVector_FinalProject
+[submodule "DatabaseMGMT_GroupProject"]
+	path = DatabaseMGMT_GroupProject
+	url = https://github.com/andrews-j/DatabaseMGMT_GroupProject
+[submodule "DatabaseMGMT_Assignments"]
+	path = DatabaseMGMT_Assignments
+	url = https://github.com/andrews-j/DatabaseMGMT_Assignments
+[submodule "AdvancedPython_FinalProject"]
+	path = AdvancedPython_FinalProject
+	url = https://github.com/andrews-j/AdvancedPython_FinalProject
+[submodule "AdvancedPython_Assignments"]
+	path = AdvancedPython_Assignments
+	url = https://github.com/andrews-j/AdvancedPython_Assignments
+[submodule "DeepLearning_Assignments"]
+	path = DeepLearning_Assignments
+	url = https://github.com/andrews-j/DeepLearning_Assignments
